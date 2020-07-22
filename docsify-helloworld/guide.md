@@ -1,3 +1,0 @@
-# guide.md
-
-> guide.md
