@@ -1,0 +1,24 @@
+{
+  "name": "docsify-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "push-dir --dir=build --branch=gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiscklaw/docsify-playlist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louiscklaw/docsify-playlist/issues"
+  },
+  "homepage": "https://github.com/louiscklaw/docsify-playlist#readme",
+  "dependencies": {
+    "push-dir": "^0.4.1"
+  }
+}

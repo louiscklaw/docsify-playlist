@@ -2,4 +2,6 @@
 
 set -ex
 
-rsync --avzh ../$1/ .
+
+
+yarn publish

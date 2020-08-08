@@ -2,4 +2,4 @@
 
 set -ex
 
-rsync --avzh ../$1/ .
+docsify serve .
